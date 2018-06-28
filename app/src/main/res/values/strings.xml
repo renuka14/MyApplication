@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Login</string>
+    <string name="et_password">Password</string>
+    <string name="et_email">email</string>
+    <string name="tv_login">Login</string>
+    <string name="tv_forgot_your_password">Forgot your password</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_email_address">Email Address</string>
+    <string name="hint_sign_up_password">Sign Up Password</string>
+    <string name="tv_terms_conditions">Terms And Conditions</string>
+    <string name="btn_register">Register</string>
+</resources>
+
+ 
